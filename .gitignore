@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+drive-download-20261016T201424Z-1-001/
